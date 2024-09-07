@@ -1,6 +1,6 @@
 # Airbnb-Analysis
 
-##Project Overview
+**Project Overview**
 This project analyzes Airbnb open data to provide insights into various aspects of Airbnb listings, such as pricing, availability, and host details. The goal is to help potential hosts and guests make informed decisions by understanding trends and patterns in the Airbnb market.
 
 **Project Purpose**
